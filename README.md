@@ -5,10 +5,11 @@
 ### SF touristy spots
 
 - [ ] City Hall ⭐️
-- [ ] Lombard Street ⭐️
+- [x] Lombard Street ⭐️
 - [x] Coit tower
 - [ ] SF Municipal Railway
-- [ ] Lands end hike
+- [x] Lands end hike
+- [x] Palace of Fine Arts
 - [ ] Botanical Garden
 - [ ] Japanese Tea Garden
 - [ ] Haight Ashbury 
@@ -25,7 +26,6 @@
 - [x] Asian Art Museum
 - [ ] The Walt Disney Family Museum
 - [x] Explatorium
-- [ ] Palace of Fine Arts
 - [ ] Fine Arts Museums of San Francisco
 - [ ] Museum of Ice Cream
 - [ ] Museum of Craft and Design （不是很大看上去有点意思的小博物馆）(low priority)
