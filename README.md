@@ -54,6 +54,7 @@
 - [ ] [Rosicrucian Egyptian Museum](https://egyptianmuseum.org/)
 - [ ] [Cathedral Basilica of St. Joseph](https://www.stjosephcathedral.org/) 很好看的天主教堂
 - [ ] [Mission San Jose](http://missionsanjose.org/)（这个地方在Fremont一代，看上去是个破破的阴森恐怖的老教堂）(low priority)
+- [ ] [De Anza College Planetarium](https://www.deanza.edu/planetarium/)
 
 
 ### Trips from the Bay
@@ -68,6 +69,7 @@
 - [ ] Tahoe ⭐️
     - [ ] Kayaking
     - [ ] Skiing
+- [ ] [Glass Beach](https://en.wikipedia.org/wiki/Glass_Beach_(Fort_Bragg,_California))
 
 
 ### Long trips
