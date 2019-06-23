@@ -35,7 +35,7 @@
 ## Silicon Valley
 
 - [ ] [Stanford Tour](http://visit.stanford.edu/tours/index.html)
-    - [ ] [Papua New Guinea Sculpture Garden](https://en.wikipedia.org/wiki/Papua_New_Guinea_Sculpture_Garden)
+    - [x] [Papua New Guinea Sculpture Garden](https://en.wikipedia.org/wiki/Papua_New_Guinea_Sculpture_Garden)
 - [x] Google Visitor Center
 - [ ] Apple
 - [ ] Facebook
