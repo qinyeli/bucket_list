@@ -37,7 +37,7 @@
 - [ ] [Stanford Tour](http://visit.stanford.edu/tours/index.html)
     - [x] [Papua New Guinea Sculpture Garden](https://en.wikipedia.org/wiki/Papua_New_Guinea_Sculpture_Garden)
 - [x] Google Visitor Center
-- [ ] Apple
+- [x] Apple Visitor Center
 - [ ] Facebook
 - [ ] HP Garage
 - [ ] Steve Jobs Garage
