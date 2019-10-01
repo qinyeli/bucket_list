@@ -61,7 +61,7 @@
 
 ### Day trips
 
-- [ ] Napa ⭐️
+- [x] Napa ⭐️
 - [x] Berkeley
 - [x] Sausalito
 - [x] Santa Cruz
@@ -90,8 +90,8 @@
 - [ ] Outdoor Rock climbing ⭐️
 - [x] Skydiving ⭐️
 - [x] Indoor skydiving ⭐️
-- [ ] Surfing ⭐️
-- [ ] See a waymo car in testing @ MTV
+- [x] Surfing ⭐️
+- [x] See a waymo car in testing @ MTV
 - [ ] Take a picture with Gbike ⭐️
 - [ ] Take a picture with MP4
 - [ ] Take a picture in my SWE suit 
