@@ -96,4 +96,4 @@
 - [ ] Take a picture with MP4
 - [ ] Take a picture in my SWE suit 
 - [ ] Attend a TGIF ⭐️
-- [ ] www.southfirstfridays.com @ SoFA District 
+- [x] www.southfirstfridays.com @ SoFA District 
