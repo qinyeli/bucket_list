@@ -48,10 +48,10 @@
 
 ## San Jose
 
-- [ ] [San Jose Museum of Art](https://sjmusart.org/)
+- [x] [San Jose Museum of Art](https://sjmusart.org/)
 - [x] [The Tech Museum of Innovation](https://www.thetech.org/)
 - [ ] [San Jose Museum of Quilts & Textiles](https://www.sjquiltmuseum.org/) ⭐️
-- [ ] [Rosicrucian Egyptian Museum](https://egyptianmuseum.org/)
+- [x] [Rosicrucian Egyptian Museum](https://egyptianmuseum.org/)
 - [ ] [Cathedral Basilica of St. Joseph](https://www.stjosephcathedral.org/) 很好看的天主教堂
 - [ ] [Mission San Jose](http://missionsanjose.org/)（这个地方在Fremont一代，看上去是个破破的阴森恐怖的老教堂）(low priority)
 - [ ] [De Anza College Planetarium](https://www.deanza.edu/planetarium/)
