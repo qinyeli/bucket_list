@@ -96,4 +96,5 @@
 - [ ] Take a picture with MP4
 - [ ] Take a picture in my SWE suit 
 - [ ] Attend a TGIF ⭐️
-- [x] www.southfirstfridays.com @ SoFA District 
+- [x] www.southfirstfridays.com @ SoFA District
+- [ ] See an NBA game at [Golden State Warriors](https://www.nba.com/warriors/)
