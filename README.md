@@ -20,7 +20,7 @@
 
 ### SF museums
 
-- [ ] SFMoma
+- [x] SFMoma
 - [ ] de Young Museum
 - [ ] California Academy of Science
 - [x] Asian Art Museum
