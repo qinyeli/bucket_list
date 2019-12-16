@@ -97,6 +97,6 @@
 - [ ] Take a picture in my SWE suit 
 - [ ] Attend a TGIF ⭐️
 - [x] www.southfirstfridays.com @ SoFA District
-- [ ] See an NBA game at [Golden State Warriors](https://www.nba.com/warriors/)
+- [x] See an NBA game at [Golden State Warriors](https://www.nba.com/warriors/)
 - [ ] Do an open mic at [Red Rock Coffee House](http://www.redrockcoffee.org/) or [other places](http://www.joerizzo.com/openmics/)
 - [x] The Nutcracker ballet in Christmas season
