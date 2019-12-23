@@ -68,7 +68,7 @@
     - [ ] Roaring Camp Railroads
 - [ ] Tahoe ⭐️
     - [ ] Kayaking
-    - [ ] Skiing
+    - [x] Skiing
 - [ ] [Glass Beach](https://en.wikipedia.org/wiki/Glass_Beach_(Fort_Bragg,_California))
 
 
