@@ -43,7 +43,7 @@
 - [ ] Steve Jobs Garage
 - [ ] Google Garage
 - [ ] The Lucky Office
-- [ ] [Computer History Museum](https://www.computerhistory.org/)
+- [x] [Computer History Museum](https://www.computerhistory.org/)
 
 
 ## San Jose
