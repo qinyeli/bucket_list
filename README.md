@@ -74,7 +74,7 @@
 
 ### Long trips
 
-- [ ] Las Vegas ⭐️
+- [x] Las Vegas ⭐️
 - [ ] Death Valley ⭐️
 - [ ] Antelope Canyon ⭐️
 - [ ] Yellow Stone ⭐️

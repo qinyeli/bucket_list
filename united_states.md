@@ -17,7 +17,7 @@
 - [ ] Portland
 - [x] San Francisco
 - [x] Los Angeles
-- [ ] Las Vegas
+- [x] Las Vegas
 - [x] San Diego
 
 
