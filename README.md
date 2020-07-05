@@ -78,6 +78,7 @@
 - [ ] Death Valley ⭐️
 - [ ] Antelope Canyon ⭐️
 - [ ] Yellow Stone ⭐️
+- [x] Crater Lake
 - [ ] Portland
 - [ ] Sequoia National Park (4hr drive)
 - [ ] Redwood National and State Parks (7hr drive, low priority)
