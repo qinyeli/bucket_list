@@ -2,7 +2,7 @@
 
 ## Ann Arbor
 
-- [ ] Watch a football match at the Big House
+- [x] Watch a football match at the Big House
 - [ ] Go to [Nichols Arboretum](https://mbgna.umich.edu/nichols-arboretum/) (The Arb)
 - [ ] Go to Zingerman's
 - [x] Go to North Michigan during the fall once more
@@ -12,7 +12,7 @@
 
 ## Detroit
 
-- [ ] [The Henry Ford Museum](https://www.thehenryford.org/)
+- [x] [The Henry Ford Museum](https://www.thehenryford.org/)
 - [ ] [The Heidelberg Project](https://www.heidelberg.org/)
 - [ ] [Eastern Market](https://easternmarket.org/)
 - [ ] [The Guardian Building](https://www.guardianbuilding.com/)
