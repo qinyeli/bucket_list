@@ -3,7 +3,7 @@
 ## Ann Arbor
 
 - [x] Watch a football match at the Big House
-- [ ] Go to [Nichols Arboretum](https://mbgna.umich.edu/nichols-arboretum/) (The Arb)
+- [x] Go to [Nichols Arboretum](https://mbgna.umich.edu/nichols-arboretum/) (The Arb)
 - [ ] Go to Zingerman's
 - [x] Go to North Michigan during the fall once more
 - [x] Visit some more fairy doors
