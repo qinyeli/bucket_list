@@ -27,7 +27,7 @@
 - [ ] The Walt Disney Family Museum
 - [x] Explatorium
 - [ ] Fine Arts Museums of San Francisco
-- [ ] Museum of Craft and Design （不是很大看上去有点意思的小博物馆）(low priority)
+- [x] Museum of Craft and Design
 - [ ] Cartoon Art Museum (low priority)
 
 
