@@ -9,10 +9,10 @@
 - [x] Philadelphia
 - [x] Washington, D.C.
 - [ ] Orlando
-- [ ] Miami
+- [x] Miami
 - [x] Chicago
 - [ ] New Orleans
-- [ ] Salt Lake City
+- [x] Salt Lake City
 - [x] Seattle
 - [ ] Portland
 - [x] San Francisco
