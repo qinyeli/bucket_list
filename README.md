@@ -92,11 +92,7 @@
 - [x] Indoor skydiving ⭐️
 - [x] Surfing ⭐️
 - [x] See a waymo car in testing @ MTV
-- [ ] Take a picture with Gbike ⭐️
-- [ ] Take a picture with MP4
-- [ ] Take a picture in my SWE suit 
-- [ ] Attend a TGIF ⭐️
 - [x] www.southfirstfridays.com @ SoFA District
 - [x] See an NBA game at [Golden State Warriors](https://www.nba.com/warriors/)
-- [ ] Do an open mic at [Red Rock Coffee House](http://www.redrockcoffee.org/) or [other places](http://www.joerizzo.com/openmics/)
+- [x] Do an open mic at [Red Rock Coffee House](http://www.redrockcoffee.org/) or [other places](http://www.joerizzo.com/openmics/)
 - [x] The Nutcracker ballet in Christmas season
